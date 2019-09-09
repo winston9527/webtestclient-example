@@ -1,0 +1,10 @@
+# Created by .ignore support plugin (hsz.mobi)
+/pos-ui.iml
+/api/build/
+/client/build/
+/build/
+/.idea/
+/.gradle/
+/api/out/
+.DS_Store
+
